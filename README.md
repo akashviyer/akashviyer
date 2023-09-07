@@ -20,6 +20,7 @@ class DataScientist:
 
 me = DataScientist()
 me.greet()
+
 ```
 
 ## My latest work!
