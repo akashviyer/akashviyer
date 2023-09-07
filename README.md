@@ -1,5 +1,5 @@
 # Hi there! ✋  
-<img src="https://miro.medium.com/max/5000/1*hRgI4zStv4wHN0CG_5iCuQ.jpeg" href="https://akashviyer.github.io"/>
+<img src="https://miro.medium.com/max/5000/1*hRgI4zStv4wHN0CG_5iCuQ.jpeg"/>
 
 <p>
   <img src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/vue.jpg" width="67.5px" />
