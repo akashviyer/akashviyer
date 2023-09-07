@@ -3,6 +3,23 @@
 
 **[Check Out My Website!](https://akashviyer.github.io)**
 
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class DataScientist:
+
+    def __init__(self):
+        self.name = "Akash Iyer"
+        self.school = "UC Berkeley"
+        self.exp_grad = "May 2025"
+        self.languages_spoken = ["English, Python, SQL, R"]
+
+    def greet(self):
+        print("Thanks for dropping by, make sure to check out my work!")
+
+me = DataScientist()
+me.greet()
+
 ## My latest work!
 
 1. **[💫 Asteroid Classification](https://github.io/akashviyer/asteroid-classification)** <br> *End-to-end Machine Learning Project*
