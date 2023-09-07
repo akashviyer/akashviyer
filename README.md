@@ -1,5 +1,3 @@
-[![Header]()
-
 Hi there ✋!  
 I'm [Akash Iyer](https://akashviyer.github.io)<img src="https://miro.medium.com/max/5000/1*hRgI4zStv4wHN0CG_5iCuQ.jpeg" />
 
