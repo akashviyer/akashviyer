@@ -3,6 +3,7 @@
 
 **[Check Out My Website!](https://akashviyer.github.io)**
 
+```
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -19,6 +20,7 @@ class DataScientist:
 
 me = DataScientist()
 me.greet()
+```
 
 ## My latest work!
 
