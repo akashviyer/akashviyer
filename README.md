@@ -41,10 +41,10 @@ me.greet()
 
 ## 🗂️ My latest work!
 
-1. **[💫 Asteroid Classification](https://github.io/akashviyer/asteroid-classification)** <br> *End-to-end Machine Learning Project*
-2. **[❓ Question Sincerity Classification](https://github.io/akashviyer/text-sincerity-classification)** <br> *State-of-the-art NLP Using BERT*
+1. **[💫 Asteroid Classification](https://github.com/akashviyer/asteroid-classification)** <br> *End-to-end Machine Learning Project*
+2. **[❓ Question Sincerity Classification](https://github.com/akashviyer/text-sincerity-classification)** <br> *State-of-the-art NLP Using BERT*
 3. **[🏥 Measles Immunization And Electricity](https://drive.google.com/file/d/1RkPU-Cs-4UpboFid0m3Xof0fDws-6sXt/view)** <br> *Statistical Analysis Using R*
-4. **[💻 Mini-Git](https://www.creative-tim.com/blog/ux/importance-user-experience-expert/)** <br> *Mini recreation, designed and coded from absolute scratch*
+4. **[💻 Mini-Git](https://gitfront.io/r/Akash-V-Iyer/oHB8j86UhEBj/Gitlet/)** <br> *Mini recreation, designed and coded from absolute scratch*
 
 ## Connect With Me On LinkedIn!
 
