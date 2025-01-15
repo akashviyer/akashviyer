@@ -12,7 +12,7 @@ class DataScientist:
     def __init__(self):
         self.name = "Akash Iyer"
         self.school = "UC Berkeley"
-        self.exp_grad = "May 2025"
+        self.graduated = "December 2024"
         self.languages_spoken = ["English", "Python", "SQL", "R"]
 
     def greet(self):
